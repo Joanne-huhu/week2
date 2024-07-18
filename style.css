@@ -34,6 +34,13 @@ a{
     display: block;
     text-align: right;
 }
+.intro{
+    background-image: url(img/background-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+
+}
 .intro-text{
     width: 526px;
 }
@@ -93,6 +100,9 @@ a{
 }
 .mb-9{
     margin-bottom: 36px;
+}
+.p-40{
+padding: 160px 0;
 }
 .gap-6{
  gap: 24px;
